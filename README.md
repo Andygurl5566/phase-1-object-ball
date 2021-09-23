@@ -19,7 +19,7 @@ debugger to test your code, so let's get started!
 ### Part 1: Building the Object
 
 The first function you will define is called `gameObject`. This function
-contains and returns a object nested in the following manner:
+contains and returns an object nested in the following manner:
 
 - The top level of the object has two keys: `"home"`, for the home team, and
   `"away"`, for the away team.

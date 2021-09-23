@@ -64,7 +64,17 @@ const object = {
 
     }
     away:{
-
-    }
-}
-}
+        teamName: "Charlotte Hornets",
+        colors: [
+             "Turquoise", "Purple"
+        ],
+        Jeff Adrien: {
+            number:,
+            shoe:,
+            points:,
+            rebounds:,
+            assists:,
+            steals:,
+            blocks:,
+            slamducks:,
+        }
