@@ -1,5 +1,5 @@
 
-// function gameObject(){
+ function gameObject(){
 
 const object = {
     home: {
@@ -118,4 +118,7 @@ const object = {
                 slamducks:12,
             },  
         },
-    }
+    },
+}
+return object
+ }
